@@ -11,5 +11,5 @@ export function taskNext() {
 }
 
 export function getLast() {
-  return ' is okay';
+  return 'is okay';
 }
